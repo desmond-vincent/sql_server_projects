@@ -50,6 +50,7 @@ To work with the **AdventureWorks** sample database:
    * Right-click **Databases** > **Restore Database...**
    * Select **Device**, browse to the downloaded `.bak` file, and restore it.
 5. Once restored, you can run queries against `AdventureWorks`.
+6. I have some ready-to-run queries that are located in `/queries`.
 
 ## Sample Datasets
 
